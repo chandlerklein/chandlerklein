@@ -7,7 +7,7 @@
 
 
 ### 🤔 About me
-I'm currently a software engineer in the insurance industry building enterprise Java applications. Right now I'm learning more about design patterns and system design to supplement my decent technical Java knowledge. In my free time I'm either playing jazz piano or reading about obscure subjects that might give me the answer to a hard trivia question some day, like [war elephants](https://en.wikipedia.org/wiki/War_elephant).
+I'm currently a software engineer in the insurance industry building enterprise Java applications. Right now I'm learning more about design patterns and system design to supplement my decent programming technical knowledge. In my free time I'm either playing jazz piano or reading about obscure subjects that might give me the answer to a hard trivia question some day, like [war elephants](https://en.wikipedia.org/wiki/War_elephant).
 
 Feel free to contact me through LinkedIn or email!
 
