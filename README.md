@@ -14,7 +14,7 @@ Feel free to contact me through LinkedIn or email!
 
 <hr>
 <details>
-  <summary>Books I've read this year:</summary>
+  <summary>📚 Books I've read this year:</summary>
 <br>
   <ul>
     <li><a href="https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/ref=pd_lpo_1?pd_rd_i=149207800X&psc=1">Head First Design Patterns</a></li>
