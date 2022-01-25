@@ -10,10 +10,11 @@
 ### 🤔 About me
 I'm currently a software engineer in the insurance industry working on Java enterprise applications. I like to know a LOT about a couple things and a little about everything else. Right now I'm learning more about design patterns and system design to supplement my decent technical Java knowledge. In my free time I'm either playing jazz piano or learning about some random subject like [war elephants](https://en.wikipedia.org/wiki/War_elephant).
 
-Ask me anything!
+Feel free to contact me through LinkedIn or email!
 
+<hr>
 <details>
-<summary>Books I've read this year</summary>
+  <summary>Books I've read this year:</summary>
 <br>
   <ul>
     <li><a href="https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X/ref=pd_lpo_1?pd_rd_i=149207800X&psc=1">Head First Design Patterns</a></li>
