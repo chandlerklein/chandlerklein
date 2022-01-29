@@ -1,5 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">👱 Hey there! I'm <a href="https://chandlerklein.com" target="_blank">Chandler</a>.</h1>
-</h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">👱 Hey there! I'm Chandler.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-chandlerklein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandlerklein)](https://www.linkedin.com/in/chandlerklein) 
 [![Gmail Badge](https://img.shields.io/badge/-kleinc16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kleinc16@gmail.com)](mailto:kleinc16@gmail.com)
