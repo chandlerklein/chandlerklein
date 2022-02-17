@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">👱 Hey there! I'm Chandler.</h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there! I'm Chandler.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-chandlerklein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandlerklein)](https://www.linkedin.com/in/chandlerklein) 
 [![Gmail Badge](https://img.shields.io/badge/-kleinc16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kleinc16@gmail.com)](mailto:kleinc16@gmail.com)
@@ -6,9 +6,9 @@
 
 
 ### 🤔 About me
-I'm currently a software engineer in the insurance industry building enterprise Java applications. Right now I'm learning more about design patterns and system design to supplement my decent programming technical knowledge. In my free time I'm either playing jazz piano or reading about obscure subjects that might give me the answer to a hard trivia question some day, like [war elephants](https://en.wikipedia.org/wiki/War_elephant).
+I'm currently a software engineer building efficient enterprise cloud applications with mostly Java, Kotlin, and JavaScript. Right now I'm learning about design patterns and system design to enhance my decent programming knowledge. In my free time I'm either playing jazz piano or reading about obscure subjects that might give me the answer to a hard trivia question some day, like [war elephants](https://en.wikipedia.org/wiki/War_elephant).
 
-Feel free to connect through LinkedIn or email!
+Please feel free to connect through LinkedIn or email!
 
 <hr>
 <details>
