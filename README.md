@@ -6,6 +6,6 @@
 
 
 ### 🤔 About me
-I'm currently a full stack engineer at FedEx Services building fast and scalable enterprise cloud applications with Spring Boot and Angular. In my free time I like studying bioinformatics, algorithms, automation, and jazz piano!
+I'm a full stack software engineer building fast and scalable enterprise cloud applications with Spring Boot and Angular. I have almost 2 years of work experience with Java, Kotlin, TypeScript, SQL, Jenkins, Maven, and Gradle. Some of my technical interests outside of work include bioinformatics, algorithms, software design, and automation.
 
 Please feel free to connect through LinkedIn or email!
